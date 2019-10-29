@@ -1,6 +1,6 @@
-# Opentok Vonage Campus
+# OpenTok Vonage Campus
 
-This sample application shows how to connect to an OpenTok session, publish a stream, subscribe to **multiple streams**, archive the session, and use OpenTok SIP Interconnect with [Nexmo](https://nexmo.com/) to create an audio conference with PSTN users.
+This application shows how to connect to an OpenTok session, publish a stream, subscribe to **multiple streams**, archive the session, and use OpenTok SIP Interconnect with [Nexmo](https://nexmo.com/) SIP Connect and Voice API to create an audio conference with PSTN users.
 
 ## Prerequisites:
 
