@@ -1,10 +1,10 @@
 module.exports = {
-    apiKey: '',
-    apiSecret: '',
+    apiKey: '', // OpenTok API Key
+    apiSecret: '', // OpenTok API Secret
     nexmo: {
-        apiKey: '',
-        apiSecret: '',
-        phoneNumber: '',
+        apiKey: '', // Nexmo API Key
+        apiSecret: '', // Nexmo API Secret
+        phoneNumber: '', // Nexmo Phone Number
     },
-    serverUrl: '',
+    serverUrl: '', // Your server URL
 };
